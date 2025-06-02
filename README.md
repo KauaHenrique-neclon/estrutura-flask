@@ -12,15 +12,19 @@
     cada um é uma pasta onde agrupa arquivos da mesma   função nele.
        
         • Pasta do decorador tem o propósito de guardar arquivos que tem como objetivo ser o decorador
-         da projeto, como decorador de Login, de Adm e etc... Eu fiz uma pequena demostração de como pode ser feito.
+         da projeto, como decorador de Login, de Adm e etc... Eu fiz uma pequena demostração de como 
+         pode ser feito.
 
-        • Pasta do form, ela tem proposito de agrupar todos os arquivos de formularios do projeto, onde 
-        ele são chamado pela views para passar para o Front... Eu fiz uma pequena demostração de como pode ser feito
+        • Pasta do form, ela tem proposito de agrupar todos os arquivos de formularios do projeto, 
+        onde ele são chamado pela views para passar para o Front... Eu fiz uma pequena demostração de
+         como pode ser feito
 
         • Pasta do views, a pasta mais importante da aplicação, ela é onde é feito a logica do projeto, o 
-        proposito dela é agrupar todos os arquivos que são de views em só um lugar... Eu fiz uma pequena demostração de como pode ser feito
+        proposito dela é agrupar todos os arquivos que são de views em só um lugar... Eu fiz uma 
+        pequena demostração de como pode ser feito
         
-    # Pasta Configuração tem o objetivo configurar o projeto e organizar toda a configuração em um só lugar
+    # Pasta Configuração tem o objetivo configurar o projeto e organizar toda a configuração em um só 
+    lugar
        
         • banco.py - Arquivo onde configura o banco de dados, com SQLAlchemy
 
@@ -67,7 +71,8 @@
      Views
         
         Na Pasta Views, basta criar mais pastas para facilitar a manutenção, use blueprint para 
-        organizar e estruturar sua aplicação de forma escalavel e modeluzar, além de ser uma boa pratica
+        organizar e estruturar sua aplicação de forma escalavel e modeluzar, além de ser uma 
+        boa pratica
         
         Boa praticas em views 
 
